@@ -18,3 +18,9 @@ Welcome! This repository contains a collection of my personal and academic proje
 LinkedIn: (WIP)  
 Email: JegMcIntire@outlook.com
 
+## 🐝 Bee Senior Project
+
+A collaborative senior design project focused on (description WIP).  
+This repo contains the portion of the project I developed and maintained.
+
+🔗 Full project (my copy): https://github.com/bilaldogutas/swarm/tree/backend-setup
