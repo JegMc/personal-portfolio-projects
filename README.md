@@ -7,6 +7,7 @@ Welcome! This repository contains a collection of my personal and academic proje
 - YATCO Agent POC
 - Student Portal (CRUD & .NET)
 - Software Testing
+- Hangfire (ASP.NET & Jobs)
 
 ## 📬 Contact
 LinkedIn: (WIP)  
