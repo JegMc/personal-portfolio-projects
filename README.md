@@ -14,6 +14,10 @@ https://github.com/JegMc/HangfireAspNetCore
 - Software Testing
 https://github.com/JegMc/Software-Testing-Final-Project
 
+📝 Notes
+- C#
+https://github.com/JegMc/C-Notes
+
 ## 📬 Contact
 LinkedIn: (WIP)  
 Email: JegMcIntire@outlook.com
